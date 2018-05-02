@@ -1,0 +1,65 @@
+body
+{
+	background: url(file:///G|/Curso%20de%20NextU/Evaluacion%20Final%20Fundamentos%20de%20HTML/img/fondo.jpg);
+	width:800px;
+	height:500px;
+	margin:auto;
+	
+}
+header
+{
+	background: rgba(34, 67, 56, 0.6);
+	border-radius:25px;
+	width:800px;
+	padding:15px;
+}
+Nav
+{
+	background: rgba(34, 67, 56, 0.6);
+	border-radius:25px;
+	width:800px;
+	padding:15px;
+	margin-top:10px;
+	
+}
+nav ul a
+{
+margin-right:150px;
+font-size:26px;
+list-style:none;
+text-decoration:none;
+color:#000;
+	
+}
+nav ul a:hover
+{
+	background:rgba(50, 167, 56, 0.6);
+	
+}
+Section
+{
+	background: rgba(34, 67, 56, 0.6);
+	border-radius:25px;
+	width:800px;
+	padding:15px;
+	margin-top:10px;
+}
+img
+{
+	margin-left:-80px;	
+}
+h1
+{
+text-shadow: rgb(255, 152, 168) 2px 0px;
+}
+Footer
+{
+	background: rgba(34, 67, 56, 0.6);
+	border-radius:25px;
+	width:800px;
+	padding:15px;
+	margin-top:10px;
+	text-align:center;
+	font-size:20px;
+	
+}
